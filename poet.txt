@@ -1,7 +1,6 @@
 The rainbow
 red
 blue
-green
 yellow
 Pink
 These are the color of the rainbow 
